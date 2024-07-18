@@ -1,0 +1,49 @@
+What is React?
+
+2. What are the advantages of using React?
+
+3. What is useState() in React?
+
+4. What is JSX?
+
+5. What are the differences between functional and class components?
+
+6. What is the virtual DOM? How does react use the virtual DOM to render the UI?
+
+7. What are the differences between controlled and uncontrolled components?
+
+8. What are props in React?
+
+9. Explain about types of side effects in React component.
+
+10. What is prop drilling in React?
+
+11. What are error boundaries?
+
+12. What is React Hooks?
+
+13. What is the use of useEffect React Hooks?
+
+14. What are Custom Hooks?
+
+15. How to prevent re-renders in React?
+
+16. Name a few techniques to optimize React app performance.
+
+17. How to pass data between react components?
+
+18. What are Higher Order Components?
+
+19. What are the different phases of the component lifecycle?
+
+20. What are the lifecycle methods of React?
+
+21. Explain about types of Hooks in React.
+
+22. How does the performance of using Hooks will differ in comparison with the classes?
+
+23. Do Hooks cover all the functionalities provided by the classes?
+
+24. What is React Router?
+
+25. Can React Hook replaces Redux?

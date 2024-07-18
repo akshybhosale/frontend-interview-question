@@ -1,0 +1,45 @@
+1. What are the different data types present in javascript?
+
+2. Explain Hoisting in javascript.
+
+3. Why do we use the word "debugger" in javascript?
+
+4. Difference between" == "and" === "operators.
+
+5. Difference between var and let keyword in javascript.
+
+6. What is NaN property in JavaScript?
+
+7. Explain Higher Order Functions in javascript.
+
+8. Explain "this" keyword.
+
+9. Explain call(), apply() and, bind() methods.
+
+10. Explain Closures in JavaScript.
+
+11. What are callbacks?
+
+12. What are the types of errors in javascript?
+
+13. What is memoization?
+
+14. What is recursion in a programming language?
+
+15. What is the use of a constructor function in javascript?
+
+16. What is DOM?
+
+17. What do you mean by BOM?
+
+18. What are arrow functions?
+
+19. What is the rest parameter and spread operator?
+
+20. What is the use of promises in javascript?
+
+21. What are generator functions?
+
+22. What is Object Destructuring?
+
+23. What has to be done in order to put Lexical Scoping into practice
